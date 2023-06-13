@@ -1,0 +1,10 @@
+* trivial-continuation
+
+
+
+|---------+-------------------------------------------|
+| source  | git:https://gitlab.com/ediethelm/trivial-continuation.git   |
+| commit  | {"messa  |
+| systems | trivial-continuation |
+|---------+-------------------------------------------|
+
