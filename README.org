@@ -4,7 +4,7 @@
 
 |---------+-------------------------------------------|
 | source  | git:https://gitlab.com/ediethelm/trivial-continuation.git   |
-| commit  | {"messa  |
+| commit  | 12ea642  |
 | systems | trivial-continuation |
 |---------+-------------------------------------------|
 
